@@ -1,3 +1,6 @@
 luairolphei:ailurophile:do you like pets?:The animal drinks milk:Synonym for cat lover;
 thsiaet:aethist:do you believe in god?:Who is god up to you?:Synonym for not a believer of god;
+erescixe:exercise:Are you healthy?:What do you do early morning?:How one can improve fitness and health?;
+irbailltn:brilliant:Are you studies?:If you answer this question,you are:Extremely clever;
+
 
